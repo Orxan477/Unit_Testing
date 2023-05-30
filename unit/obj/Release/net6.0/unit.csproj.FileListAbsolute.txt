@@ -1,0 +1,15 @@
+/Users/orkhanganbarov/Projects/unit/unit/bin/Release/net6.0/unit
+/Users/orkhanganbarov/Projects/unit/unit/bin/Release/net6.0/unit.deps.json
+/Users/orkhanganbarov/Projects/unit/unit/bin/Release/net6.0/unit.runtimeconfig.json
+/Users/orkhanganbarov/Projects/unit/unit/bin/Release/net6.0/unit.dll
+/Users/orkhanganbarov/Projects/unit/unit/bin/Release/net6.0/unit.pdb
+/Users/orkhanganbarov/Projects/unit/unit/obj/Release/net6.0/unit.csproj.AssemblyReference.cache
+/Users/orkhanganbarov/Projects/unit/unit/obj/Release/net6.0/unit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orkhanganbarov/Projects/unit/unit/obj/Release/net6.0/unit.AssemblyInfoInputs.cache
+/Users/orkhanganbarov/Projects/unit/unit/obj/Release/net6.0/unit.AssemblyInfo.cs
+/Users/orkhanganbarov/Projects/unit/unit/obj/Release/net6.0/unit.csproj.CoreCompileInputs.cache
+/Users/orkhanganbarov/Projects/unit/unit/obj/Release/net6.0/unit.dll
+/Users/orkhanganbarov/Projects/unit/unit/obj/Release/net6.0/refint/unit.dll
+/Users/orkhanganbarov/Projects/unit/unit/obj/Release/net6.0/unit.pdb
+/Users/orkhanganbarov/Projects/unit/unit/obj/Release/net6.0/unit.genruntimeconfig.cache
+/Users/orkhanganbarov/Projects/unit/unit/obj/Release/net6.0/ref/unit.dll
